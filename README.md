@@ -7,8 +7,9 @@ Passionate about building practical web applications and continuously improving 
 I'm documenting my journey as I build projects and improve my full-stack development skills through consistent practice.
 
 ────────────────────────
-## 📫 Connect with Me
+## Connect with Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_mmandle/)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/_mmandle/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-cabizares-4778a3351/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/emmanuel-cabizares-4778a3351/)
+
